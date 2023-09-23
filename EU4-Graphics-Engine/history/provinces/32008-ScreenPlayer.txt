@@ -1,0 +1,17 @@
+#Skaraborg, contains Skara, Sk�vde etc.
+
+add_core = SCR
+owner = SCR
+controller = SCR
+culture = saxon
+religion = catholic
+base_tax = 0
+base_production = 0
+trade_goods = grain
+base_manpower = 0
+capital = "Skara"
+is_city = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman

@@ -6,6 +6,10 @@
 
 test_region = {
 	areas = {
-		test
+		test_area
 	}
+}
+
+screen_region = {
+	areas = { screen_area }
 }

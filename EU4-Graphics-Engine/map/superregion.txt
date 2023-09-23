@@ -3,3 +3,5 @@
 test_superregion = {
 	test_region
 }
+
+screen_superregion = { screen_region }

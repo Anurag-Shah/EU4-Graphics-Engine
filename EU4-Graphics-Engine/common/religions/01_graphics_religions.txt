@@ -1,0 +1,1547 @@
+# If you add religions, and use those tags, do not change them without changing everywhere they are used.
+
+# Uses all 'modifiers' possible thats exported as a Modifier.
+
+colors_8b = {
+
+	flags_with_emblem_percentage = 10
+	flag_emblem_index_range = { 83 96 }
+
+	
+    rel_8b_0 = {
+    	color = { 0 0 0 }
+		icon = 11
+		heretic = { HERETICAL0 }
+	}
+
+    rel_8b_1 = {
+    	color = { 11 11 11 }
+		icon = 11
+		heretic = { HERETICAL1 }
+	}
+
+    rel_8b_2 = {
+    	color = { 34 34 34 }
+		icon = 11
+		heretic = { HERETICAL2 }
+	}
+
+    rel_8b_3 = {
+    	color = { 68 68 68 }
+		icon = 11
+		heretic = { HERETICAL3 }
+	}
+
+    rel_8b_4 = {
+    	color = { 85 85 85 }
+		icon = 11
+		heretic = { HERETICAL4 }
+	}
+
+    rel_8b_5 = {
+    	color = { 119 119 119 }
+		icon = 11
+		heretic = { HERETICAL5 }
+	}
+
+    rel_8b_6 = {
+    	color = { 136 136 136 }
+		icon = 11
+		heretic = { HERETICAL6 }
+	}
+
+    rel_8b_7 = {
+    	color = { 170 170 170 }
+		icon = 11
+		heretic = { HERETICAL7 }
+	}
+
+    rel_8b_8 = {
+    	color = { 187 187 187 }
+		icon = 11
+		heretic = { HERETICAL8 }
+	}
+
+    rel_8b_9 = {
+    	color = { 221 221 221 }
+		icon = 11
+		heretic = { HERETICAL9 }
+	}
+
+    rel_8b_10 = {
+    	color = { 238 238 238 }
+		icon = 11
+		heretic = { HERETICAL10 }
+	}
+
+    rel_8b_11 = {
+    	color = { 0 0 11 }
+		icon = 11
+		heretic = { HERETICAL11 }
+	}
+
+    rel_8b_12 = {
+    	color = { 0 0 34 }
+		icon = 11
+		heretic = { HERETICAL12 }
+	}
+
+    rel_8b_13 = {
+    	color = { 0 0 68 }
+		icon = 11
+		heretic = { HERETICAL13 }
+	}
+
+    rel_8b_14 = {
+    	color = { 0 0 85 }
+		icon = 11
+		heretic = { HERETICAL14 }
+	}
+
+    rel_8b_15 = {
+    	color = { 0 0 119 }
+		icon = 11
+		heretic = { HERETICAL15 }
+	}
+
+    rel_8b_16 = {
+    	color = { 0 0 136 }
+		icon = 11
+		heretic = { HERETICAL16 }
+	}
+
+    rel_8b_17 = {
+    	color = { 0 0 170 }
+		icon = 11
+		heretic = { HERETICAL17 }
+	}
+
+    rel_8b_18 = {
+    	color = { 0 0 187 }
+		icon = 11
+		heretic = { HERETICAL18 }
+	}
+
+    rel_8b_19 = {
+    	color = { 0 0 221 }
+		icon = 11
+		heretic = { HERETICAL19 }
+	}
+
+    rel_8b_20 = {
+    	color = { 0 0 238 }
+		icon = 11
+		heretic = { HERETICAL20 }
+	}
+
+    rel_8b_21 = {
+    	color = { 0 11 0 }
+		icon = 11
+		heretic = { HERETICAL21 }
+	}
+
+    rel_8b_22 = {
+    	color = { 0 34 0 }
+		icon = 11
+		heretic = { HERETICAL22 }
+	}
+
+    rel_8b_23 = {
+    	color = { 0 68 0 }
+		icon = 11
+		heretic = { HERETICAL23 }
+	}
+
+    rel_8b_24 = {
+    	color = { 0 85 0 }
+		icon = 11
+		heretic = { HERETICAL24 }
+	}
+
+    rel_8b_25 = {
+    	color = { 0 119 0 }
+		icon = 11
+		heretic = { HERETICAL25 }
+	}
+
+    rel_8b_26 = {
+    	color = { 0 136 0 }
+		icon = 11
+		heretic = { HERETICAL26 }
+	}
+
+    rel_8b_27 = {
+    	color = { 0 170 0 }
+		icon = 11
+		heretic = { HERETICAL27 }
+	}
+
+    rel_8b_28 = {
+    	color = { 0 187 0 }
+		icon = 11
+		heretic = { HERETICAL28 }
+	}
+
+    rel_8b_29 = {
+    	color = { 0 221 0 }
+		icon = 11
+		heretic = { HERETICAL29 }
+	}
+
+    rel_8b_30 = {
+    	color = { 0 238 0 }
+		icon = 11
+		heretic = { HERETICAL30 }
+	}
+
+    rel_8b_31 = {
+    	color = { 11 0 0 }
+		icon = 11
+		heretic = { HERETICAL31 }
+	}
+
+    rel_8b_32 = {
+    	color = { 34 0 0 }
+		icon = 11
+		heretic = { HERETICAL32 }
+	}
+
+    rel_8b_33 = {
+    	color = { 68 0 0 }
+		icon = 11
+		heretic = { HERETICAL33 }
+	}
+
+    rel_8b_34 = {
+    	color = { 85 0 0 }
+		icon = 11
+		heretic = { HERETICAL34 }
+	}
+
+    rel_8b_35 = {
+    	color = { 119 0 0 }
+		icon = 11
+		heretic = { HERETICAL35 }
+	}
+
+    rel_8b_36 = {
+    	color = { 136 0 0 }
+		icon = 11
+		heretic = { HERETICAL36 }
+	}
+
+    rel_8b_37 = {
+    	color = { 170 0 0 }
+		icon = 11
+		heretic = { HERETICAL37 }
+	}
+
+    rel_8b_38 = {
+    	color = { 187 0 0 }
+		icon = 11
+		heretic = { HERETICAL38 }
+	}
+
+    rel_8b_39 = {
+    	color = { 221 0 0 }
+		icon = 11
+		heretic = { HERETICAL39 }
+	}
+
+    rel_8b_40 = {
+    	color = { 238 0 0 }
+		icon = 11
+		heretic = { HERETICAL40 }
+	}
+
+    rel_8b_41 = {
+    	color = { 0 0 51 }
+		icon = 11
+		heretic = { HERETICAL41 }
+	}
+
+    rel_8b_42 = {
+    	color = { 0 0 102 }
+		icon = 11
+		heretic = { HERETICAL42 }
+	}
+
+    rel_8b_43 = {
+    	color = { 0 0 153 }
+		icon = 11
+		heretic = { HERETICAL43 }
+	}
+
+    rel_8b_44 = {
+    	color = { 0 0 204 }
+		icon = 11
+		heretic = { HERETICAL44 }
+	}
+
+    rel_8b_45 = {
+    	color = { 0 0 255 }
+		icon = 11
+		heretic = { HERETICAL45 }
+	}
+
+    rel_8b_46 = {
+    	color = { 0 51 0 }
+		icon = 11
+		heretic = { HERETICAL46 }
+	}
+
+    rel_8b_47 = {
+    	color = { 0 51 51 }
+		icon = 11
+		heretic = { HERETICAL47 }
+	}
+
+    rel_8b_48 = {
+    	color = { 0 51 102 }
+		icon = 11
+		heretic = { HERETICAL48 }
+	}
+
+    rel_8b_49 = {
+    	color = { 0 51 153 }
+		icon = 11
+		heretic = { HERETICAL49 }
+	}
+
+    rel_8b_50 = {
+    	color = { 0 51 204 }
+		icon = 11
+		heretic = { HERETICAL50 }
+	}
+
+    rel_8b_51 = {
+    	color = { 0 51 255 }
+		icon = 11
+		heretic = { HERETICAL51 }
+	}
+
+    rel_8b_52 = {
+    	color = { 0 102 0 }
+		icon = 11
+		heretic = { HERETICAL52 }
+	}
+
+    rel_8b_53 = {
+    	color = { 0 102 51 }
+		icon = 11
+		heretic = { HERETICAL53 }
+	}
+
+    rel_8b_54 = {
+    	color = { 0 102 102 }
+		icon = 11
+		heretic = { HERETICAL54 }
+	}
+
+    rel_8b_55 = {
+    	color = { 0 102 153 }
+		icon = 11
+		heretic = { HERETICAL55 }
+	}
+
+    rel_8b_56 = {
+    	color = { 0 102 204 }
+		icon = 11
+		heretic = { HERETICAL56 }
+	}
+
+    rel_8b_57 = {
+    	color = { 0 102 255 }
+		icon = 11
+		heretic = { HERETICAL57 }
+	}
+
+    rel_8b_58 = {
+    	color = { 0 153 0 }
+		icon = 11
+		heretic = { HERETICAL58 }
+	}
+
+    rel_8b_59 = {
+    	color = { 0 153 51 }
+		icon = 11
+		heretic = { HERETICAL59 }
+	}
+
+    rel_8b_60 = {
+    	color = { 0 153 102 }
+		icon = 11
+		heretic = { HERETICAL60 }
+	}
+
+    rel_8b_61 = {
+    	color = { 0 153 153 }
+		icon = 11
+		heretic = { HERETICAL61 }
+	}
+
+    rel_8b_62 = {
+    	color = { 0 153 204 }
+		icon = 11
+		heretic = { HERETICAL62 }
+	}
+
+    rel_8b_63 = {
+    	color = { 0 153 255 }
+		icon = 11
+		heretic = { HERETICAL63 }
+	}
+
+    rel_8b_64 = {
+    	color = { 0 204 0 }
+		icon = 11
+		heretic = { HERETICAL64 }
+	}
+
+    rel_8b_65 = {
+    	color = { 0 204 51 }
+		icon = 11
+		heretic = { HERETICAL65 }
+	}
+
+    rel_8b_66 = {
+    	color = { 0 204 102 }
+		icon = 11
+		heretic = { HERETICAL66 }
+	}
+
+    rel_8b_67 = {
+    	color = { 0 204 153 }
+		icon = 11
+		heretic = { HERETICAL67 }
+	}
+
+    rel_8b_68 = {
+    	color = { 0 204 204 }
+		icon = 11
+		heretic = { HERETICAL68 }
+	}
+
+    rel_8b_69 = {
+    	color = { 0 204 255 }
+		icon = 11
+		heretic = { HERETICAL69 }
+	}
+
+    rel_8b_70 = {
+    	color = { 0 255 0 }
+		icon = 11
+		heretic = { HERETICAL70 }
+	}
+
+    rel_8b_71 = {
+    	color = { 0 255 51 }
+		icon = 11
+		heretic = { HERETICAL71 }
+	}
+
+    rel_8b_72 = {
+    	color = { 0 255 102 }
+		icon = 11
+		heretic = { HERETICAL72 }
+	}
+
+    rel_8b_73 = {
+    	color = { 0 255 153 }
+		icon = 11
+		heretic = { HERETICAL73 }
+	}
+
+    rel_8b_74 = {
+    	color = { 0 255 204 }
+		icon = 11
+		heretic = { HERETICAL74 }
+	}
+
+    rel_8b_75 = {
+    	color = { 0 255 255 }
+		icon = 11
+		heretic = { HERETICAL75 }
+	}
+
+    rel_8b_76 = {
+    	color = { 51 0 0 }
+		icon = 11
+		heretic = { HERETICAL76 }
+	}
+
+    rel_8b_77 = {
+    	color = { 51 0 51 }
+		icon = 11
+		heretic = { HERETICAL77 }
+	}
+
+    rel_8b_78 = {
+    	color = { 51 0 102 }
+		icon = 11
+		heretic = { HERETICAL78 }
+	}
+
+    rel_8b_79 = {
+    	color = { 51 0 153 }
+		icon = 11
+		heretic = { HERETICAL79 }
+	}
+
+    rel_8b_80 = {
+    	color = { 51 0 204 }
+		icon = 11
+		heretic = { HERETICAL80 }
+	}
+
+    rel_8b_81 = {
+    	color = { 51 0 255 }
+		icon = 11
+		heretic = { HERETICAL81 }
+	}
+
+    rel_8b_82 = {
+    	color = { 51 51 0 }
+		icon = 11
+		heretic = { HERETICAL82 }
+	}
+
+    rel_8b_83 = {
+    	color = { 51 51 51 }
+		icon = 11
+		heretic = { HERETICAL83 }
+	}
+
+    rel_8b_84 = {
+    	color = { 51 51 102 }
+		icon = 11
+		heretic = { HERETICAL84 }
+	}
+
+    rel_8b_85 = {
+    	color = { 51 51 153 }
+		icon = 11
+		heretic = { HERETICAL85 }
+	}
+
+    rel_8b_86 = {
+    	color = { 51 51 204 }
+		icon = 11
+		heretic = { HERETICAL86 }
+	}
+
+    rel_8b_87 = {
+    	color = { 51 51 255 }
+		icon = 11
+		heretic = { HERETICAL87 }
+	}
+
+    rel_8b_88 = {
+    	color = { 51 102 0 }
+		icon = 11
+		heretic = { HERETICAL88 }
+	}
+
+    rel_8b_89 = {
+    	color = { 51 102 51 }
+		icon = 11
+		heretic = { HERETICAL89 }
+	}
+
+    rel_8b_90 = {
+    	color = { 51 102 102 }
+		icon = 11
+		heretic = { HERETICAL90 }
+	}
+
+    rel_8b_91 = {
+    	color = { 51 102 153 }
+		icon = 11
+		heretic = { HERETICAL91 }
+	}
+
+    rel_8b_92 = {
+    	color = { 51 102 204 }
+		icon = 11
+		heretic = { HERETICAL92 }
+	}
+
+    rel_8b_93 = {
+    	color = { 51 102 255 }
+		icon = 11
+		heretic = { HERETICAL93 }
+	}
+
+    rel_8b_94 = {
+    	color = { 51 153 0 }
+		icon = 11
+		heretic = { HERETICAL94 }
+	}
+
+    rel_8b_95 = {
+    	color = { 51 153 51 }
+		icon = 11
+		heretic = { HERETICAL95 }
+	}
+
+    rel_8b_96 = {
+    	color = { 51 153 102 }
+		icon = 11
+		heretic = { HERETICAL96 }
+	}
+
+    rel_8b_97 = {
+    	color = { 51 153 153 }
+		icon = 11
+		heretic = { HERETICAL97 }
+	}
+
+    rel_8b_98 = {
+    	color = { 51 153 204 }
+		icon = 11
+		heretic = { HERETICAL98 }
+	}
+
+    rel_8b_99 = {
+    	color = { 51 153 255 }
+		icon = 11
+		heretic = { HERETICAL99 }
+	}
+
+    rel_8b_100 = {
+    	color = { 51 204 0 }
+		icon = 11
+		heretic = { HERETICAL100 }
+	}
+
+    rel_8b_101 = {
+    	color = { 51 204 51 }
+		icon = 11
+		heretic = { HERETICAL101 }
+	}
+
+    rel_8b_102 = {
+    	color = { 51 204 102 }
+		icon = 11
+		heretic = { HERETICAL102 }
+	}
+
+    rel_8b_103 = {
+    	color = { 51 204 153 }
+		icon = 11
+		heretic = { HERETICAL103 }
+	}
+
+    rel_8b_104 = {
+    	color = { 51 204 204 }
+		icon = 11
+		heretic = { HERETICAL104 }
+	}
+
+    rel_8b_105 = {
+    	color = { 51 204 255 }
+		icon = 11
+		heretic = { HERETICAL105 }
+	}
+
+    rel_8b_106 = {
+    	color = { 51 255 0 }
+		icon = 11
+		heretic = { HERETICAL106 }
+	}
+
+    rel_8b_107 = {
+    	color = { 51 255 51 }
+		icon = 11
+		heretic = { HERETICAL107 }
+	}
+
+    rel_8b_108 = {
+    	color = { 51 255 102 }
+		icon = 11
+		heretic = { HERETICAL108 }
+	}
+
+    rel_8b_109 = {
+    	color = { 51 255 153 }
+		icon = 11
+		heretic = { HERETICAL109 }
+	}
+
+    rel_8b_110 = {
+    	color = { 51 255 204 }
+		icon = 11
+		heretic = { HERETICAL110 }
+	}
+
+    rel_8b_111 = {
+    	color = { 51 255 255 }
+		icon = 11
+		heretic = { HERETICAL111 }
+	}
+
+    rel_8b_112 = {
+    	color = { 102 0 0 }
+		icon = 11
+		heretic = { HERETICAL112 }
+	}
+
+    rel_8b_113 = {
+    	color = { 102 0 51 }
+		icon = 11
+		heretic = { HERETICAL113 }
+	}
+
+    rel_8b_114 = {
+    	color = { 102 0 102 }
+		icon = 11
+		heretic = { HERETICAL114 }
+	}
+
+    rel_8b_115 = {
+    	color = { 102 0 153 }
+		icon = 11
+		heretic = { HERETICAL115 }
+	}
+
+    rel_8b_116 = {
+    	color = { 102 0 204 }
+		icon = 11
+		heretic = { HERETICAL116 }
+	}
+
+    rel_8b_117 = {
+    	color = { 102 0 255 }
+		icon = 11
+		heretic = { HERETICAL117 }
+	}
+
+    rel_8b_118 = {
+    	color = { 102 51 0 }
+		icon = 11
+		heretic = { HERETICAL118 }
+	}
+
+    rel_8b_119 = {
+    	color = { 102 51 51 }
+		icon = 11
+		heretic = { HERETICAL119 }
+	}
+
+    rel_8b_120 = {
+    	color = { 102 51 102 }
+		icon = 11
+		heretic = { HERETICAL120 }
+	}
+
+    rel_8b_121 = {
+    	color = { 102 51 153 }
+		icon = 11
+		heretic = { HERETICAL121 }
+	}
+
+    rel_8b_122 = {
+    	color = { 102 51 204 }
+		icon = 11
+		heretic = { HERETICAL122 }
+	}
+
+    rel_8b_123 = {
+    	color = { 102 51 255 }
+		icon = 11
+		heretic = { HERETICAL123 }
+	}
+
+    rel_8b_124 = {
+    	color = { 102 102 0 }
+		icon = 11
+		heretic = { HERETICAL124 }
+	}
+
+    rel_8b_125 = {
+    	color = { 102 102 51 }
+		icon = 11
+		heretic = { HERETICAL125 }
+	}
+
+    rel_8b_126 = {
+    	color = { 102 102 102 }
+		icon = 11
+		heretic = { HERETICAL126 }
+	}
+
+    rel_8b_127 = {
+    	color = { 102 102 153 }
+		icon = 11
+		heretic = { HERETICAL127 }
+	}
+
+    rel_8b_128 = {
+    	color = { 102 102 204 }
+		icon = 11
+		heretic = { HERETICAL128 }
+	}
+
+    rel_8b_129 = {
+    	color = { 102 102 255 }
+		icon = 11
+		heretic = { HERETICAL129 }
+	}
+
+    rel_8b_130 = {
+    	color = { 102 153 0 }
+		icon = 11
+		heretic = { HERETICAL130 }
+	}
+
+    rel_8b_131 = {
+    	color = { 102 153 51 }
+		icon = 11
+		heretic = { HERETICAL131 }
+	}
+
+    rel_8b_132 = {
+    	color = { 102 153 102 }
+		icon = 11
+		heretic = { HERETICAL132 }
+	}
+
+    rel_8b_133 = {
+    	color = { 102 153 153 }
+		icon = 11
+		heretic = { HERETICAL133 }
+	}
+
+    rel_8b_134 = {
+    	color = { 102 153 204 }
+		icon = 11
+		heretic = { HERETICAL134 }
+	}
+
+    rel_8b_135 = {
+    	color = { 102 153 255 }
+		icon = 11
+		heretic = { HERETICAL135 }
+	}
+
+    rel_8b_136 = {
+    	color = { 102 204 0 }
+		icon = 11
+		heretic = { HERETICAL136 }
+	}
+
+    rel_8b_137 = {
+    	color = { 102 204 51 }
+		icon = 11
+		heretic = { HERETICAL137 }
+	}
+
+    rel_8b_138 = {
+    	color = { 102 204 102 }
+		icon = 11
+		heretic = { HERETICAL138 }
+	}
+
+    rel_8b_139 = {
+    	color = { 102 204 153 }
+		icon = 11
+		heretic = { HERETICAL139 }
+	}
+
+    rel_8b_140 = {
+    	color = { 102 204 204 }
+		icon = 11
+		heretic = { HERETICAL140 }
+	}
+
+    rel_8b_141 = {
+    	color = { 102 204 255 }
+		icon = 11
+		heretic = { HERETICAL141 }
+	}
+
+    rel_8b_142 = {
+    	color = { 102 255 0 }
+		icon = 11
+		heretic = { HERETICAL142 }
+	}
+
+    rel_8b_143 = {
+    	color = { 102 255 51 }
+		icon = 11
+		heretic = { HERETICAL143 }
+	}
+
+    rel_8b_144 = {
+    	color = { 102 255 102 }
+		icon = 11
+		heretic = { HERETICAL144 }
+	}
+
+    rel_8b_145 = {
+    	color = { 102 255 153 }
+		icon = 11
+		heretic = { HERETICAL145 }
+	}
+
+    rel_8b_146 = {
+    	color = { 102 255 204 }
+		icon = 11
+		heretic = { HERETICAL146 }
+	}
+
+    rel_8b_147 = {
+    	color = { 102 255 255 }
+		icon = 11
+		heretic = { HERETICAL147 }
+	}
+
+    rel_8b_148 = {
+    	color = { 153 0 0 }
+		icon = 11
+		heretic = { HERETICAL148 }
+	}
+
+    rel_8b_149 = {
+    	color = { 153 0 51 }
+		icon = 11
+		heretic = { HERETICAL149 }
+	}
+
+    rel_8b_150 = {
+    	color = { 153 0 102 }
+		icon = 11
+		heretic = { HERETICAL150 }
+	}
+
+    rel_8b_151 = {
+    	color = { 153 0 153 }
+		icon = 11
+		heretic = { HERETICAL151 }
+	}
+
+    rel_8b_152 = {
+    	color = { 153 0 204 }
+		icon = 11
+		heretic = { HERETICAL152 }
+	}
+
+    rel_8b_153 = {
+    	color = { 153 0 255 }
+		icon = 11
+		heretic = { HERETICAL153 }
+	}
+
+    rel_8b_154 = {
+    	color = { 153 51 0 }
+		icon = 11
+		heretic = { HERETICAL154 }
+	}
+
+    rel_8b_155 = {
+    	color = { 153 51 51 }
+		icon = 11
+		heretic = { HERETICAL155 }
+	}
+
+    rel_8b_156 = {
+    	color = { 153 51 102 }
+		icon = 11
+		heretic = { HERETICAL156 }
+	}
+
+    rel_8b_157 = {
+    	color = { 153 51 153 }
+		icon = 11
+		heretic = { HERETICAL157 }
+	}
+
+    rel_8b_158 = {
+    	color = { 153 51 204 }
+		icon = 11
+		heretic = { HERETICAL158 }
+	}
+
+    rel_8b_159 = {
+    	color = { 153 51 255 }
+		icon = 11
+		heretic = { HERETICAL159 }
+	}
+
+    rel_8b_160 = {
+    	color = { 153 102 0 }
+		icon = 11
+		heretic = { HERETICAL160 }
+	}
+
+    rel_8b_161 = {
+    	color = { 153 102 51 }
+		icon = 11
+		heretic = { HERETICAL161 }
+	}
+
+    rel_8b_162 = {
+    	color = { 153 102 102 }
+		icon = 11
+		heretic = { HERETICAL162 }
+	}
+
+    rel_8b_163 = {
+    	color = { 153 102 153 }
+		icon = 11
+		heretic = { HERETICAL163 }
+	}
+
+    rel_8b_164 = {
+    	color = { 153 102 204 }
+		icon = 11
+		heretic = { HERETICAL164 }
+	}
+
+    rel_8b_165 = {
+    	color = { 153 102 255 }
+		icon = 11
+		heretic = { HERETICAL165 }
+	}
+
+    rel_8b_166 = {
+    	color = { 153 153 0 }
+		icon = 11
+		heretic = { HERETICAL166 }
+	}
+
+    rel_8b_167 = {
+    	color = { 153 153 51 }
+		icon = 11
+		heretic = { HERETICAL167 }
+	}
+
+    rel_8b_168 = {
+    	color = { 153 153 102 }
+		icon = 11
+		heretic = { HERETICAL168 }
+	}
+
+    rel_8b_169 = {
+    	color = { 153 153 153 }
+		icon = 11
+		heretic = { HERETICAL169 }
+	}
+
+    rel_8b_170 = {
+    	color = { 153 153 204 }
+		icon = 11
+		heretic = { HERETICAL170 }
+	}
+
+    rel_8b_171 = {
+    	color = { 153 153 255 }
+		icon = 11
+		heretic = { HERETICAL171 }
+	}
+
+    rel_8b_172 = {
+    	color = { 153 204 0 }
+		icon = 11
+		heretic = { HERETICAL172 }
+	}
+
+    rel_8b_173 = {
+    	color = { 153 204 51 }
+		icon = 11
+		heretic = { HERETICAL173 }
+	}
+
+    rel_8b_174 = {
+    	color = { 153 204 102 }
+		icon = 11
+		heretic = { HERETICAL174 }
+	}
+
+    rel_8b_175 = {
+    	color = { 153 204 153 }
+		icon = 11
+		heretic = { HERETICAL175 }
+	}
+
+    rel_8b_176 = {
+    	color = { 153 204 204 }
+		icon = 11
+		heretic = { HERETICAL176 }
+	}
+
+    rel_8b_177 = {
+    	color = { 153 204 255 }
+		icon = 11
+		heretic = { HERETICAL177 }
+	}
+
+    rel_8b_178 = {
+    	color = { 153 255 0 }
+		icon = 11
+		heretic = { HERETICAL178 }
+	}
+
+    rel_8b_179 = {
+    	color = { 153 255 51 }
+		icon = 11
+		heretic = { HERETICAL179 }
+	}
+
+    rel_8b_180 = {
+    	color = { 153 255 102 }
+		icon = 11
+		heretic = { HERETICAL180 }
+	}
+
+    rel_8b_181 = {
+    	color = { 153 255 153 }
+		icon = 11
+		heretic = { HERETICAL181 }
+	}
+
+    rel_8b_182 = {
+    	color = { 153 255 204 }
+		icon = 11
+		heretic = { HERETICAL182 }
+	}
+
+    rel_8b_183 = {
+    	color = { 153 255 255 }
+		icon = 11
+		heretic = { HERETICAL183 }
+	}
+
+    rel_8b_184 = {
+    	color = { 204 0 0 }
+		icon = 11
+		heretic = { HERETICAL184 }
+	}
+
+    rel_8b_185 = {
+    	color = { 204 0 51 }
+		icon = 11
+		heretic = { HERETICAL185 }
+	}
+
+    rel_8b_186 = {
+    	color = { 204 0 102 }
+		icon = 11
+		heretic = { HERETICAL186 }
+	}
+
+    rel_8b_187 = {
+    	color = { 204 0 153 }
+		icon = 11
+		heretic = { HERETICAL187 }
+	}
+
+    rel_8b_188 = {
+    	color = { 204 0 204 }
+		icon = 11
+		heretic = { HERETICAL188 }
+	}
+
+    rel_8b_189 = {
+    	color = { 204 0 255 }
+		icon = 11
+		heretic = { HERETICAL189 }
+	}
+
+    rel_8b_190 = {
+    	color = { 204 51 0 }
+		icon = 11
+		heretic = { HERETICAL190 }
+	}
+
+    rel_8b_191 = {
+    	color = { 204 51 51 }
+		icon = 11
+		heretic = { HERETICAL191 }
+	}
+
+    rel_8b_192 = {
+    	color = { 204 51 102 }
+		icon = 11
+		heretic = { HERETICAL192 }
+	}
+
+    rel_8b_193 = {
+    	color = { 204 51 153 }
+		icon = 11
+		heretic = { HERETICAL193 }
+	}
+
+    rel_8b_194 = {
+    	color = { 204 51 204 }
+		icon = 11
+		heretic = { HERETICAL194 }
+	}
+
+    rel_8b_195 = {
+    	color = { 204 51 255 }
+		icon = 11
+		heretic = { HERETICAL195 }
+	}
+
+    rel_8b_196 = {
+    	color = { 204 102 0 }
+		icon = 11
+		heretic = { HERETICAL196 }
+	}
+
+    rel_8b_197 = {
+    	color = { 204 102 51 }
+		icon = 11
+		heretic = { HERETICAL197 }
+	}
+
+    rel_8b_198 = {
+    	color = { 204 102 102 }
+		icon = 11
+		heretic = { HERETICAL198 }
+	}
+
+    rel_8b_199 = {
+    	color = { 204 102 153 }
+		icon = 11
+		heretic = { HERETICAL199 }
+	}
+
+    rel_8b_200 = {
+    	color = { 204 102 204 }
+		icon = 11
+		heretic = { HERETICAL200 }
+	}
+
+    rel_8b_201 = {
+    	color = { 204 102 255 }
+		icon = 11
+		heretic = { HERETICAL201 }
+	}
+
+    rel_8b_202 = {
+    	color = { 204 153 0 }
+		icon = 11
+		heretic = { HERETICAL202 }
+	}
+
+    rel_8b_203 = {
+    	color = { 204 153 51 }
+		icon = 11
+		heretic = { HERETICAL203 }
+	}
+
+    rel_8b_204 = {
+    	color = { 204 153 102 }
+		icon = 11
+		heretic = { HERETICAL204 }
+	}
+
+    rel_8b_205 = {
+    	color = { 204 153 153 }
+		icon = 11
+		heretic = { HERETICAL205 }
+	}
+
+    rel_8b_206 = {
+    	color = { 204 153 204 }
+		icon = 11
+		heretic = { HERETICAL206 }
+	}
+
+    rel_8b_207 = {
+    	color = { 204 153 255 }
+		icon = 11
+		heretic = { HERETICAL207 }
+	}
+
+    rel_8b_208 = {
+    	color = { 204 204 0 }
+		icon = 11
+		heretic = { HERETICAL208 }
+	}
+
+    rel_8b_209 = {
+    	color = { 204 204 51 }
+		icon = 11
+		heretic = { HERETICAL209 }
+	}
+
+    rel_8b_210 = {
+    	color = { 204 204 102 }
+		icon = 11
+		heretic = { HERETICAL210 }
+	}
+
+    rel_8b_211 = {
+    	color = { 204 204 153 }
+		icon = 11
+		heretic = { HERETICAL211 }
+	}
+
+    rel_8b_212 = {
+    	color = { 204 204 204 }
+		icon = 11
+		heretic = { HERETICAL212 }
+	}
+
+    rel_8b_213 = {
+    	color = { 204 204 255 }
+		icon = 11
+		heretic = { HERETICAL213 }
+	}
+
+    rel_8b_214 = {
+    	color = { 204 255 0 }
+		icon = 11
+		heretic = { HERETICAL214 }
+	}
+
+    rel_8b_215 = {
+    	color = { 204 255 51 }
+		icon = 11
+		heretic = { HERETICAL215 }
+	}
+
+    rel_8b_216 = {
+    	color = { 204 255 102 }
+		icon = 11
+		heretic = { HERETICAL216 }
+	}
+
+    rel_8b_217 = {
+    	color = { 204 255 153 }
+		icon = 11
+		heretic = { HERETICAL217 }
+	}
+
+    rel_8b_218 = {
+    	color = { 204 255 204 }
+		icon = 11
+		heretic = { HERETICAL218 }
+	}
+
+    rel_8b_219 = {
+    	color = { 204 255 255 }
+		icon = 11
+		heretic = { HERETICAL219 }
+	}
+
+    rel_8b_220 = {
+    	color = { 255 0 0 }
+		icon = 11
+		heretic = { HERETICAL220 }
+	}
+
+    rel_8b_221 = {
+    	color = { 255 0 51 }
+		icon = 11
+		heretic = { HERETICAL221 }
+	}
+
+    rel_8b_222 = {
+    	color = { 255 0 102 }
+		icon = 11
+		heretic = { HERETICAL222 }
+	}
+
+    rel_8b_223 = {
+    	color = { 255 0 153 }
+		icon = 11
+		heretic = { HERETICAL223 }
+	}
+
+    rel_8b_224 = {
+    	color = { 255 0 204 }
+		icon = 11
+		heretic = { HERETICAL224 }
+	}
+
+    rel_8b_225 = {
+    	color = { 255 0 255 }
+		icon = 11
+		heretic = { HERETICAL225 }
+	}
+
+    rel_8b_226 = {
+    	color = { 255 51 0 }
+		icon = 11
+		heretic = { HERETICAL226 }
+	}
+
+    rel_8b_227 = {
+    	color = { 255 51 51 }
+		icon = 11
+		heretic = { HERETICAL227 }
+	}
+
+    rel_8b_228 = {
+    	color = { 255 51 102 }
+		icon = 11
+		heretic = { HERETICAL228 }
+	}
+
+    rel_8b_229 = {
+    	color = { 255 51 153 }
+		icon = 11
+		heretic = { HERETICAL229 }
+	}
+
+    rel_8b_230 = {
+    	color = { 255 51 204 }
+		icon = 11
+		heretic = { HERETICAL230 }
+	}
+
+    rel_8b_231 = {
+    	color = { 255 51 255 }
+		icon = 11
+		heretic = { HERETICAL231 }
+	}
+
+    rel_8b_232 = {
+    	color = { 255 102 0 }
+		icon = 11
+		heretic = { HERETICAL232 }
+	}
+
+    rel_8b_233 = {
+    	color = { 255 102 51 }
+		icon = 11
+		heretic = { HERETICAL233 }
+	}
+
+    rel_8b_234 = {
+    	color = { 255 102 102 }
+		icon = 11
+		heretic = { HERETICAL234 }
+	}
+
+    rel_8b_235 = {
+    	color = { 255 102 153 }
+		icon = 11
+		heretic = { HERETICAL235 }
+	}
+
+    rel_8b_236 = {
+    	color = { 255 102 204 }
+		icon = 11
+		heretic = { HERETICAL236 }
+	}
+
+    rel_8b_237 = {
+    	color = { 255 102 255 }
+		icon = 11
+		heretic = { HERETICAL237 }
+	}
+
+    rel_8b_238 = {
+    	color = { 255 153 0 }
+		icon = 11
+		heretic = { HERETICAL238 }
+	}
+
+    rel_8b_239 = {
+    	color = { 255 153 51 }
+		icon = 11
+		heretic = { HERETICAL239 }
+	}
+
+    rel_8b_240 = {
+    	color = { 255 153 102 }
+		icon = 11
+		heretic = { HERETICAL240 }
+	}
+
+    rel_8b_241 = {
+    	color = { 255 153 153 }
+		icon = 11
+		heretic = { HERETICAL241 }
+	}
+
+    rel_8b_242 = {
+    	color = { 255 153 204 }
+		icon = 11
+		heretic = { HERETICAL242 }
+	}
+
+    rel_8b_243 = {
+    	color = { 255 153 255 }
+		icon = 11
+		heretic = { HERETICAL243 }
+	}
+
+    rel_8b_244 = {
+    	color = { 255 204 0 }
+		icon = 11
+		heretic = { HERETICAL244 }
+	}
+
+    rel_8b_245 = {
+    	color = { 255 204 51 }
+		icon = 11
+		heretic = { HERETICAL245 }
+	}
+
+    rel_8b_246 = {
+    	color = { 255 204 102 }
+		icon = 11
+		heretic = { HERETICAL246 }
+	}
+
+    rel_8b_247 = {
+    	color = { 255 204 153 }
+		icon = 11
+		heretic = { HERETICAL247 }
+	}
+
+    rel_8b_248 = {
+    	color = { 255 204 204 }
+		icon = 11
+		heretic = { HERETICAL248 }
+	}
+
+    rel_8b_249 = {
+    	color = { 255 204 255 }
+		icon = 11
+		heretic = { HERETICAL249 }
+	}
+
+    rel_8b_250 = {
+    	color = { 255 255 0 }
+		icon = 11
+		heretic = { HERETICAL250 }
+	}
+
+    rel_8b_251 = {
+    	color = { 255 255 51 }
+		icon = 11
+		heretic = { HERETICAL251 }
+	}
+
+    rel_8b_252 = {
+    	color = { 255 255 102 }
+		icon = 11
+		heretic = { HERETICAL252 }
+	}
+
+    rel_8b_253 = {
+    	color = { 255 255 153 }
+		icon = 11
+		heretic = { HERETICAL253 }
+	}
+
+    rel_8b_254 = {
+    	color = { 255 255 204 }
+		icon = 11
+		heretic = { HERETICAL254 }
+	}
+
+    rel_8b_255 = {
+    	color = { 255 255 255 }
+		icon = 11
+		heretic = { HERETICAL255 }
+	}
+
+}
