@@ -1,0 +1,11 @@
+# A province can only belong to one region!
+
+########################################
+# EUROPE                               #
+########################################
+
+test_region = {
+	areas = {
+		test
+	}
+}

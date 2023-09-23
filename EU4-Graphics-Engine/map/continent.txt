@@ -1,0 +1,28 @@
+europe = {
+}
+
+asia = {
+}
+
+africa = {
+}
+
+north_america = {
+}
+
+south_america = {
+}
+
+oceania = {
+}
+
+island_check_provinces = {
+}
+
+# Used for RNW
+new_world = {
+}
+
+test = {
+	1 2 3 4 5 6 7 
+}

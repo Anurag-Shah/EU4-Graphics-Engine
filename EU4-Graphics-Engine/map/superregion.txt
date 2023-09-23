@@ -1,0 +1,5 @@
+# A region can only belong to one super region.
+
+test_superregion = {
+	test_region
+}
